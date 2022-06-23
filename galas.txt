@@ -9,7 +9,9 @@ Technology yada waana meherad leh shaqaale iyo sidoo kale maamulo kala duwan
 •	Sidoo kale meheradu hab xisaabeedkeedu maaha mid cago adag ku taagan 
 •	Mararka qaarkood waxa dhacda in kharashaad laga dhex waayo sidoo kale in mararka qaarkood ay xisaaabtu fadhiisan waydo mar ay wax dheeraadan iyo mar ay wax dhinaanadan ba 
 •	Meherada shaqaalaha jooga waxa ay qaad qaataan lacago dheer ka go,a goordhow mushaharkooda mararka qaarkood ayaa buugaagta lagu qoro ay dhacdaa in ay buuxsamaan madama adeega maalinlaha ah ay kala dhex baxaan lacagta 
-•	Malaha meheradu 
+•	meheradu vwaxay waxka soo iibsataa bakhaaro kala duwan kuwaas oo qaarkoodna ay dayn ku yeeshaan qaarkoodna wixi laga soo qaato isla markaas la bixiyo 
+•	lumitaanka rasiidhada alaabaha lasoo iibiyo 
+•	
 
 
 Adeegyada meherada:
@@ -36,4 +38,16 @@ Qorshaha aragtida Fog
 1.	Meheradu yeelato qaybo kala duwan 
 2.	In lagu soo kordhiyo adeegyo ka balaadhan intan la hayo hadda 
 
-    
+Hab Xisaabeedka meherada:
+1.	Meheradu waxay u xisaabisaa nidaamka dailyworksheet 
+2.	6dii bilood halmar ayaa  xisaab xidh lagu sameeyaa si loo hubiyo korodhka miisaaniyadeed iyo sida oo kale hoos u dhaca imaada 
+3.	Ugu dambayn sannadkii ayaa la xisaabiya si loo ogaado natiijada guud ee faaido iyo khasaaro 
+4.	
+
+    Habka ay meheradu uga iibiso shay macmiilka ee xog laga qaadayo :
+1. Magaca qofka oo dhamaystiran 
+3.	numberkiisa 
+4.	shayga uu qaatay ama loogu adeegay 
+5.	qiimo dhimis 
+6.	lacagta shilin iyo dollar 
+7.	
