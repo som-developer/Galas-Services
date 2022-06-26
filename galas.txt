@@ -9,7 +9,7 @@ Technology yada waana meherad leh shaqaale iyo sidoo kale maamulo kala duwan
 •	Sidoo kale meheradu hab xisaabeedkeedu maaha mid cago adag ku taagan 
 •	Mararka qaarkood waxa dhacda in kharashaad laga dhex waayo sidoo kale in mararka qaarkood ay xisaaabtu fadhiisan waydo mar ay wax dheeraadan iyo mar ay wax dhinaanadan ba 
 •	Meherada shaqaalaha jooga waxa ay qaad qaataan lacago dheer ka go,a goordhow mushaharkooda mararka qaarkood ayaa buugaagta lagu qoro ay dhacdaa in ay buuxsamaan madama adeega maalinlaha ah ay kala dhex baxaan lacagta 
-•	meheradu vwaxay waxka soo iibsataa bakhaaro kala duwan kuwaas oo qaarkoodna ay dayn ku yeeshaan qaarkoodna wixi laga soo qaato isla markaas la bixiyo 
+•	meheradu waxay waxka soo iibsataa bakhaaro kala duwan kuwaas oo qaarkoodna ay dayn ku yeeshaan qaarkoodna wixi laga soo qaato isla markaas la bixiyo 
 •	lumitaanka rasiidhada alaabaha lasoo iibiyo 
 •	
 
@@ -79,11 +79,18 @@ Shaqaalaha iyo waxa laga rabo
 8. 
 
 
-Habka ay kharashaadku u baxaan 
+Habka ay kharashaadku u baxaan:
 1. nusasacaha shaqalaha 
 2. bixinta kirada 
 3. bixinta cashuurta 
 4. hadii ay meherada wax u baahato in lagu sameeyo 
+
+
+
+
+
+
+
 
 
 
