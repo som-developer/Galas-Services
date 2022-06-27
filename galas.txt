@@ -1,4 +1,4 @@
-GALAS SERVICES TECHNOLOGY 
+                     GALAS SERVICES TECHNOLOGY 
 Taarikhda meheradda 
 Meheradu waxay ku taala wajaale
 Waxay la asaasay sannadkii 2018 waxayna ka shaqaysa bixinta adeegyada 
@@ -14,43 +14,64 @@ Technology yada waana meherad leh shaqaale iyo sidoo kale maamulo kala duwan
 •	
 
 
-Adeegyada meherada:
+     Adeegyada meherada:
+     ...................
 1.	Cillad saariada computerada iyo systems ka 
 2.	Cillad saarida mobiles ka iyo mobile devices ka oo dhan 
 3.	Xidhista cctv camera iyo finger pringter ka 
 4.	Samaynta websites ka iyo xayaysiiska 
 
-Adeegyada dheeriga ah ee hos imada kuwan 
-# multiservices sida 
-# samaynta tikidhaanta meherka iyo aroosyada 
-# samayna ID cards ka iyo sido kale CV yada ama waraaqaah codsi shaqo 
-#samaynta social media programms ka sida facebook, gmail, hotmail, iyo ka jabintooda 
-# qorista buugaagta iyo imtixaanadka goobaha waxbarasho ee kala duwan 
+Adeegyada dheeriga ah ee hos imada kuwan:
+........................................
+1 multiservices sida 
+2 samaynta tikidhaanta meherka iyo aroosyada 
+3 samayna ID cards ka iyo sido kale CV yada ama waraaqaah codsi shaqo 
+4 samaynta social media programms ka sida
+  facebook, gmail, hotmail, iyo ka jabintooda.
+5 qorista buugaagta iyo imtixaanadka goobaha waxbarasho ee kala duwan 
 
-Habmaamulka Maaliyadeed ee meherada 
-# waxay si manual ah ku bixiyaan cashuuraha waraqaha iyo rasiidhada cashuurtana file ayaa lagu kaydiyaa 
-# bixinta mushaharadu bilkasta 30 keeda ayaa la bixiya balse waxa culays wayn ka jiraa in la ogaado qofka shaqalaha ah intii uu soo isticmaalay ee laga jari lahaa mararka qaarkood ayaa la hilmaama ama buugii inta la baadhayo wax laga boodaa 
-# kharashadka dheeriga ah ee meesha ka baxa oo aan mararka qarkood la ogayn ama aan la qorin illowshiiyo awgeed 
-# xisaabta maalinlaha ah oo noqota mid marka wax dheeraadaan marna wax dhinaadan inta u dhaxaysa goorta la furo oo subaxa hore ah illaa 9ka fiidnimo oo ah kama dambaysta rawaxaadda 
+Habmaamulka Maaliyadeed ee meherada:
+....................................
+1 waxay si manual ah ku bixiyaan cashuuraha 
+  waraqaha iyo rasiidhada cashuurtana file ayaa lagu kaydiyaa 
+2 bixinta mushaharadu bilkasta 30 keeda ayaa la bixiya
+  balse waxa culays wayn ka jiraa in la ogaado qofka 
+  shaqalaha ah intii uu soo isticmaalay ee laga jari 
+  lahaa mararka qaarkood ayaa la hilmaama ama buugii 
+  inta la baadhayo wax laga boodaa.
+3 kharashadka dheeriga ah ee meesha ka baxa 
+  oo aan mararka qarkood la ogayn ama aan 
+  la qorin illowshiiyo awgeed.
+4 xisaabta maalinlaha ah oo noqota mid marka
+  wax dheeraadaan marna wax dhinaadan inta 
+  u dhaxaysa goorta la furo oo subaxa hore
+  ah illaa 9ka fiidnimo oo ah kama dambaysta rawaxaadda. 
 
 
-Qorshaha aragtida Fog 
+         Qorshaha aragtida Fog:
+        .........................
 1.	Meheradu yeelato qaybo kala duwan 
 2.	In lagu soo kordhiyo adeegyo ka balaadhan intan la hayo hadda 
 
-Hab Xisaabeedka meherada:
+    Hab Xisaabeedka meherada:
+.   .........................
 1.	Meheradu waxay u xisaabisaa nidaamka dailyworksheet 
-2.	6dii bilood halmar ayaa  xisaab xidh lagu sameeyaa si loo hubiyo korodhka miisaaniyadeed iyo sida oo kale hoos u dhaca imaada 
-3.	Ugu dambayn sannadkii ayaa la xisaabiya si loo ogaado natiijada guud ee faaido iyo khasaaro 
-4.	
+2.	6dii bilood halmar ayaa  xisaab xidh lagu sameeyaa
+    si loo hubiyo korodhka miisaaniyadeed iyo sida oo 
+    kale hoos u dhaca imaada. 
+3.	Ugu dambayn sannadkii ayaa la xisaabiya si loo ogaado
+    natiijada guud ee faaido iyo khasaaro.
+
 
     Macmiilka :
+    ...........
 1. Magaca qofka oo dhamaystiran 
 3.	numberkiisa 
 4.	shayga uu qaatay ama loogu adeegay
 5.	qiimo dhimis 
 6.	lacagta shilin iyo dollar 
-7. qofka jaray Rasiidhka = kan waxa la raba in systemka uun lagu ogaado e aan qofka looso raacin.
+7. qofka jaray Rasiidhka = kan waxa la raba 
+   in systemka uun lagu ogaado e aan qofka looso raacin.
 8. meherada macmiilka adeega loogu qabanayo 
 
 
@@ -59,31 +80,71 @@ Hab Xisaabeedka meherada:
 
 
 Macmiilka Dayn qaataha waxyabaha laga buuxinayo 
-
+...............................................
 1. Magaciisa oo dhamaystiran 
-2. telefan numberkiisa ugu yaraan 3 number si loo heli karo marka loo baahdo 
+2. telefan numberkiisa ugu yaraan 3 number
+   si loo heli karo marka loo baahdo 
 3. nooca alaabta uu qaatay 
 4. lacagta laga siiyay 
 5. inta laga daayay 
-6. hadii uu wax sii bixiyay iyo sidoo kale hadii uu wax keeney markale 
-7.
+6. hadii uu wax sii bixiyay iyo
+   sidoo kale hadii uu wax keeney markale.
 
-Shaqaalaha iyo waxa laga rabo 
+
+Shaqaalaha iyo waxa laga rabo :
+...............................
 1. magaciisa oo dhamaystiran 
-2. number kiisa iyo ugu yaraan 3 number oo kale = numbers ka kale waxay noqonayaan eheladiisa inta ugu dhaw ee lala xidhiidhi karo  
+2. number kiisa iyo ugu yaraan 3 number
+   oo kale = numbers ka kale waxay noqonayaan 
+   eheladiisa inta ugu dhaw ee lala xidhiidhi karo. 
 3. title ka shaqadiisa 
-4. waraqaha codsiga shaqada iyo shahadoyinka iyo sidoo kale Kaadhka aqoonsiga
+4. waraqaha codsiga shaqada iyo shahadoyinka
+   iyo sidoo kale Kaadhka aqoonsiga
 5. Mushaharka uu qaadanayo 
 6. Waqtiyada uu shaqaynayo 
-7. gabadh ama wiil ka uu yahay 
-8. 
+7. gabadh ama wiil ka uu yahay.
 
 
 Habka ay kharashaadku u baxaan:
+...............................
 1. nusasacaha shaqalaha 
 2. bixinta kirada 
 3. bixinta cashuurta 
 4. hadii ay meherada wax u baahato in lagu sameeyo 
+
+
+Habka System ay u kala yeelanayaan shaqaaluhu:
+..............................................
+1. waxa la rabaa in qofka masuulka ah uu noqdo
+ ka awooda u leh inuu system ka wada maamuli karo 
+2 . inanka ama inanta iibiyaha ah
+    waa in ay awood u leeyihin oo qudha
+    in aanay waxba ka saari karin waxna ka badali karin systemka.
+3. maamulka meesha waa in systemka loogu xidhaa mobile kiisa
+   si uu ugala socdo 
+   dhaqdhaqaaqa maalinkaas wixii la iibiyay. 
+4. systemka waa in lagu xidhaa attendance ka si goor dhow marka 
+   laga jarayo mushaharkiisa hal meel looga wada ogaan karo 
+oo qofka hadhaaga mushaharkiisa uun lasiin karo.
+
+
+
+
+
+Habk Xisaab xidhista iyo waxa laga rabo:
+........................................
+1. in xisaabta cida xidhaysa ay hayso dhammaan report ka 
+   daabicina karto maalinkaas wixii iib dhacay 
+2. xisaabta waa in lagu dhex xisaabin karo wixii iib dhacay
+3. natiijada ugu dambaysa ee xisaabta waa in waraaq faahfahsan 
+   oo totalaysan uu sytsemku kaydin kharashadka
+4. xisaabtii maalintaas oo dhamaystiran waa in ay mobile ka 
+   ugu soo dhacdo masuulka meesha iska leh 
+5. ku iibsada iyo dhammaan lacaga zaad iyo edahab
+   waa in system ka laga soconkaraa
+   waxana loo ogolaanayaa oo qudha qofka cashier ka ah.
+
+
 
 
 
