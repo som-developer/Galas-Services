@@ -1,0 +1,55 @@
+ Table Username with Roles
+ Table Services
+ //Table Sales//
+ Table  Expenses
+ Table Salary
+ Table Emplooyees
+ Table Customer
+ Table DaylyWorksheet
+ Table CustomerLoan 
+ Table Vendor
+
+
+
+ Catogoreis:
+ 1 Customer 
+ 2. Expenses
+ 3. Emplooyees
+ 4. users
+ 5. Services
+
+
+service category
+--------------
+catID 
+categryname
+
+services
+----------
+-> service name 
+-> servie cat
+-> price 
+-> unit price
+-> dis?
+-> total 
+-> user
+
+expenses category
+------------------
+categoryID
+categoryName
+
+
+Payment
+--------
+id 
+ex
+user 
+
+
+employee
+---------
+
+
+
+
